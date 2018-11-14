@@ -13,7 +13,7 @@ import (
 )
 
 var (
-	channelID = "dd619fdc24ee404f82d8986d0fe1e05e"
+	channelID = "YOUR CHANNEL ID HERE"
 
 	publicAddress = flag.String("public-address", "https://ngrok.io/TOTO", "The public address of this bot on the interwebs")
 	accessKey     = flag.String("access-key", "invalid", "MessageBird API access key to talk to conversations api.")
